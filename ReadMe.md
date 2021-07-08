@@ -11,7 +11,7 @@ I came to know of General Assembly and their class offerings after unfortunately
 
 This example is not the first website I had ever built but it had been over 11 years since I had built one for my previous employer. I had built several websites for the company using mostly HTML and eventually WYSIWYG editors over the years before the plug and play online editors began to take over and the switch was made to a basic WordPress site around 2016. 
 
-For fun, and in the spirit of the old gaudy websites of the late 90's and early 2000's I decided to include an html page designed with that "feel" in mind from screenshots taken from Internet WayBack Machine (https://archive.org/web/). It can be found here: https://pages.git.generalassemb.ly/greglarson/Vees-Apothecary/retro.html
+For fun, and in the spirit of the old gaudy websites of the late 90's and early 2000's I decided to include an html page designed with that "feel" in mind from screenshots taken from Internet WayBack Machine (https://archive.org/web/). It can be found here: https://greg-larson-ny.github.io/Vees-Apothecary-Site/retro.html
 
  
 ## Project Scope
